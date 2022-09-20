@@ -1,0 +1,54 @@
+.child{
+    width: 250px;
+    text-align: center;
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 20px;
+    background-color: rgb(214, 75, 98);
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin-top: 100px;
+    position: relative;
+    
+
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    padding-top: 10px;
+}
+.parent{
+    display: flex;
+    justify-content:center;
+    justify-content: space-evenly;
+
+}
+body{
+    background-color:rgb(243, 193, 99) ;
+}
+h2{
+    color: yellow;
+    font-family: 'Roboto', sans-serif;
+}
+.logos{
+   position:absolute;
+  left:30px;
+  margin-top:-18px;
+  
+}
+.fb{
+    border-radius:50%;
+  width:100px;
+  height:50px;
+  position: relative;
+  left:50%;
+ 
+}
+.linkedin{
+   border-radius:15px;
+  height:50px;
+  width:50px;
+  position:absolute;
+  bottom:440px;
+  margin-left:40px
+}

@@ -1,0 +1,55 @@
+ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-evenly;
+    word-spacing: 100px;
+    background-color:burlywood;
+    color:blue;
+   padding: 20px;
+   margin: auto;
+    margin-right: 10px;
+    width: 1200px;
+    
+}
+
+
+.parent{
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-self: center;
+    align-content: center;
+}
+
+.child1,.child2,.child3,.child4{
+    width:250px;
+    height: 350px;
+    background-color:cyan; 
+      padding: 20px;
+    box-shadow: 10px 10px 210px #beb3b3;
+    align-items: center;
+    margin: auto;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+h2,h4,p{
+    text-align: center;
+}
+img{
+   
+    display: block;
+   margin: auto;
+    border-radius: 70px;
+    width: 100px;
+    height: 100px;
+}
+body{
+    background-image: url("http://images.freecreatives.com/wp-content/uploads/2015/06/rainbow-wallpapers.jpg")
+    
+}
+h4{
+  display:inline;
+  background:cyan;
+  border-radius:40px;
+  margin-left:90px;
+} 

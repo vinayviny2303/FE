@@ -1,0 +1,39 @@
+img{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    
+}
+body{
+    background-color: rgb(240,154,145);
+}
+h5 span{
+    color: white;
+    background-color: blue;
+    border-radius: 5px;
+    padding: 5px;
+}
+.child{
+    width: 250px;
+    text-align: center;
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 20px;
+    background-color: rgb(233, 212, 169);
+    
+}
+.parent{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    margin-top: 150px;
+}
+.parent1{
+     display: flex;
+     margin-top: 100px;
+     background-color:rgb(177, 31, 123);
+     justify-content: space-around;
+}
+ul{
+    padding-top: 15px;
+    list-style-type: none;
+}

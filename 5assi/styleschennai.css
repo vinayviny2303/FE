@@ -1,0 +1,15 @@
+body{
+    background-color:blue;
+    color: burlywood;
+    text-align: center;
+}
+    img{
+        padding: 50px;
+        width:300px;
+        height: 250px;
+}
+div{
+    font-size: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+}

@@ -1,0 +1,26 @@
+ .child{
+        width: 300px;
+        box-shadow: 10px 10px 10px grey;
+        padding: 15px;
+ }
+img{
+    width: 100%;
+}
+h5{
+    display: flex;
+    background-color: darkgray;
+    padding: 10px;
+    justify-content: space-evenly;
+    
+}
+.parent1{
+    display: flex;
+    justify-content:space-evenly;
+    padding-left: 10px;
+}
+.parent2{
+    display: flex;
+    justify-content:space-evenly;
+}
+
+
